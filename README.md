@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Barbadi Managing Tool
 
 A web-app to manage the score of a addictive card game called barbadi
 
