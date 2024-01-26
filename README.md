@@ -4,9 +4,9 @@ A web-app to manage the score of a addictive card game called barbadi
 
 ## What to Barbadi?
 
-- **Barbadi** in hindi means to destoy or reduce is a card game played between a minimum of two players.
+- **Barbadi** in hindi means to destoy or reduce, is a card game played between a minimum of two players.
 - Each players gets 5 cards in the begining.
-- The distributer is the first player whose is responsible to shuffle and distribute cards to the other players
+- The distributer is the first player who is responsible to shuffle and distribute cards to the other players
 - The player sitting next to the distribuiter gets 6 cards and starts the game.
 - The objective of the game is to reduce(barbadi) the card points in their hand.
 - The reduction happens by exchanging your card with the table cards
