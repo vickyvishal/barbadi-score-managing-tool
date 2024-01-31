@@ -14,5 +14,3 @@ A web-app to manage the score of a addictive card game called barbadi
 - The player can also group their cards with the **same value** or in **sequence** and reduce it at one go.
 - If a player feels that the total points of their card is the lowest, they can close the game during their turn.
 
-## What is the cardinal rule of Barbadi?
-- The player sitting next to Maitrayee wins. The others player should just give up.
